@@ -20,7 +20,7 @@ Abaixo está um resumo da quantidade de *chunrs* para cada tipo de cliente entre
 
 ![image](https://user-images.githubusercontent.com/42758623/114225662-fad6ac80-9948-11eb-8299-f2d5d46d25dd.png)
 
-É possível observar que o número absoluto de *churns* de novos cliente é superior ao de clientes ativos em todos os anos. Portanto, existem indícios que corroboram a hipótese levantada.
+É possível observar que o número absoluto de *churns* de novos cliente é superior ao de clientes ativos em todos os anos. Portanto, existem indícios que corroboram a hipótese em questão.
 
 O script com os códigos está em `main.R`.
 
