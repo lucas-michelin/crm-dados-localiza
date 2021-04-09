@@ -14,6 +14,7 @@ clientesAno <- function(dados, ano){
   return(x$cd_cliente)
 }
 
+`%nin%` = Negate(`%in%`)
 ##########-- main -- ##########
 dados <- read.csv(file = "./desafio-1/data/base_teste.csv", header = TRUE)
 head(dados)
